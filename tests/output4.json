@@ -1,0 +1,7 @@
+{
+  "a.aa": "test",
+  "b": true,
+  "c.cc": "hello",
+  "d": 3,
+  "e.ee": "bye"
+}
